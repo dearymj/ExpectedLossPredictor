@@ -1,5 +1,7 @@
 # Expected Loss GUI
 
+Project summary: https://www.linkedin.com/in/mj-yuan-786678324/details/projects/
+
 A simple Tkinter-based desktop application that demonstrates how to load loan data from a CSV file, train machine learning models (Logistic Regression and Decision Tree) to predict default probabilities, and calculate the expected loss on loans. The GUI guides you through loading data, training models, and predicting outcomes on random samples.
 
 ![Expected Loss GUI Screenshot](screenshot.png)
