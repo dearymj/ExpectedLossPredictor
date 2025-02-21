@@ -37,7 +37,6 @@ def append_text(text_widget, msg):
     text_widget.see(tk.END)
     text_widget.config(state=tk.DISABLED)
 
-
 def load_data():
     """
     Load the CSV file and display the first 5 rows in the text widget.
